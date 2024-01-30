@@ -1,8 +1,8 @@
 .experience {
-  .jobs {
+  .subjects {
     margin-bottom: 100px;
   }
-  .job {
+  .subject {
     margin-bottom: 25px;
     .time-place {
       display: flex;
@@ -11,7 +11,7 @@
         display: block;
       }
     }
-    &__company {
+    &__name {
       font-weight: 700;
     }
     &__time {
