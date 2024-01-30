@@ -1,18 +1,17 @@
 <section class="section experience">
   <div class="section__title">Experience</div>
   <div class="section__content">
-    <div class="jobs">
-      {% for job in site.data.experience %}
-      <div class="job">
+    <div class="subjects">
+      {% for subject in site.data.grades %}
+      <div class="subject">
         <div class="time-place">
-          <div class="job__company">
-            <a href="{{job.url}}" target="_blank">{{job.company}}</a>
+          <div class="subject__name">
+            <a href="{{subject.url}}" target="_blank">{{subject.name}}</a>
           </div>
-          <div class="job__time">{{job.time}}</div>
-          <div class="job__time2">{{job.position2}}</div>
+          <div class="subject__grade10">{{subject.grade10}}</div>
+          <div class="subject__grade11">{{subject.grade11}}</div>
         </div>
-        <div class="job__time2">{{job.position2}}</div>
-        <div class="job__position">{{job.position}}</div>
+        <div class="subject__level">{{subject.level}}</div>
       </div>
       {% endfor %}
     </div>
