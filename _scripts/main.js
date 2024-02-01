@@ -74,5 +74,6 @@ $(function() {
   sr.reveal('.academics', { viewFactor: 0.2 });
   sr.reveal('.featured-projects', { viewFactor: 0.1 });
   sr.reveal('.featured-projects2', { viewFactor: 0.1 });
+  sr.reveal('.featured-projects3', { viewFactor: 0.1 });
   sr.reveal('.other-projects', { viewFactor: 0.05 });
 });
