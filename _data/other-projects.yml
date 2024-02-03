@@ -1,6 +1,6 @@
 - name: Literary Critic
-url: "{{site.baseurl}}/docs/others/critic.png"
-description: I was selected to be a literary critic. I critiqued three books, which I discussed with the writer afterwords.
+  url: "{{site.baseurl}}/docs/others/critic.png"
+  description: I was selected to be a literary critic. I critiqued three books, which I discussed with the writer afterwords.
   used:
     - thing: JavaScript
     - thing: React
@@ -19,7 +19,7 @@ description: I was selected to be a literary critic. I critiqued three books, wh
     - thing: Hyper
 
 - name: Handicapped Short Story
-url: "{{site.baseurl}}/docs/others/handicapped.pdf"
+  url: "{{site.baseurl}}/docs/others/handicapped.pdf"
   description: About handicapped
   used:
     - thing: Python
