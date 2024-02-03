@@ -1,5 +1,5 @@
 - name: Literary Critic
-  url: "{{site.baseurl}}/docs/others/critic.png"
+  url: docs/others/critic.png
   description: I was selected to be a literary critic. I critiqued three books, which I discussed with the writer afterwords.
   used:
     - thing: JavaScript
@@ -9,7 +9,7 @@
     - thing: YouTube API
 
 - name: ِEntity Script
-  url: "{{site.baseurl}}/docs/others/entity.pdf"
+  url: docs/others/entity.pdf
   description: about an entity
   used:
     - thing: Gatsby
@@ -19,7 +19,7 @@
     - thing: Hyper
 
 - name: Handicapped Short Story
-  url: "{{site.baseurl}}/docs/others/handicapped.pdf"
+  url: docs/others/handicapped.pdf
   description: About handicapped
   used:
     - thing: Python
@@ -30,7 +30,7 @@
     - thing: JavaScript
 
 - name: Marvel Pilot Program
-  url: "{{site.baseurl}}/docs/others/marvel.pdf"
+  url: docs/others/marvel.pdf
   description: I learned a holistic approach to STEM learning and completed projects one and two of the curriculum.
   used:
     - thing: Jekyll
