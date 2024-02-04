@@ -20,7 +20,7 @@
 
 - name: Handicapped Short Story
   url: docs/others/handicapped.pdf
-  description: "Handicapped" is an Arabic short story that takes a deeper look into the inner world, thoughts and emotions of a handicapped boy.
+  description: Handicapped is an Arabic short story that takes a deeper look into the inner world, thoughts and emotions of a handicapped boy.
   used:
     - thing: Storytelling
     - thing: Challenges
